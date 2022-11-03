@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Open+Sans&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #f0e2bb;
+}
+
+table {width: 100%; position: center; background-color:}
+
+#theader {border-spacing: 30px;}
+.oi {height: 50px; border-radius: 50px; font-size: 30px; background-color:#333333; color: white; padding: 20px; text-align:left; display:table-cell;}
+#io {color:#c99338; margin-top: 5px; margin-bottom: 5px; font-size: 55px; font-family: 'Open-sans', sans-serif}
+a1 {background-color: black; color: white; padding: 20px 10px;margin: 2px} 
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+}
+#bb {position: static; display: block; text-align: center, padding: 5px;}
+#fran {align: center; font-family: 'Caveat'; font-size: 30px; padding: 5px 10px 5px 40px; width: 80%, position:static; display:block; text-decoration: none;}
+#dumbo {height: 200px; font-family: 'Open-sans', sans-serif; font-size: 20px;}
+#font {font-family: 'Open-sans', sans-serif; font-size: 40px; color: white; padding: 10px 10px 2px 10px; font-weight: bold;}
+.nenis {margin-left: 80px; margin-right: 80px; border-radius: 10px; position:static; text-decoration: none;}
+.nenis:hover {background-color:#333333; color:white;}
+.paddbow {padding: 20px 20px 20px 20px;}
+.pepeu {background-image:url("headerback.svg"); vertical-align: bottom;}
+#courrier {font-family: 'Courier New', monospace; color: white; }
+#doom {font-size:15px; position: relative; vertical-align: bottom-left; font-family: 'Open-sans', sans-serif, bold; background-color:#4255a1; font-weight: bold; border-radius: 12px;}
+#duda {position: relative; display: table-cell; vertical-align:left;}
+#pic {padding:none; position:static; text-align:center;}
+#lula {font-size: 22px;}
+#bozo {font-family: Open-sans; font-size: 15px; text-align:center;}
+#thc {font-weight: bold; font-size: 26px; padding:5px 5px 10px 0px;}
+#toby {font-family: Open-sans, sans-serif; font-size: 18px;}
+.bolder {font-family: Open-sans, sans-serif; font-size: 18px; font-weight: bold;}
+.nur {padding: 2px;}
+#html {height: 30px;}
+.california  {padding: 0px; font-family: 'Open-sans', sans-serif; font-size: 19px;}
+#ping {padding: 10px;}
+#pano {align: center;}
+#proj {font-family: 'Open-sans', sans-serif; font-size: 17px;}
+#uno {font-weight: bold;}
+#slct {width: 30%; font-family: 'Open-sans', sans-serif; border-radius:5px;}
+#slctmsg {width: 30%; padding: 40px 20px; margin: 0px; box-sizing: border-box; border-radius:5px;}
+label {font-family: 'Open-sans', sans-serif;}
+#umabracoromulo {background-color:#4255a1; color: white; padding: 5px 10px 5px 10px; border-radius:5px;}
+#final {font-family: 'Open-sans', sans-serif; font-size: 18px; font-weight: bold;}
+#finaldois {font-family: 'Open-sans', sans-serif; font-size: 14px;}
+#finaltres {font-family: 'Open-sans', sans-serif; font-size: 14px; padding: 0px 0px 10px 0px;}
